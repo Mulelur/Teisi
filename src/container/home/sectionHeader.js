@@ -10,7 +10,7 @@ export default function SectionHeaderContainer() {
           Hello My Name is Keikantsemang Princess Teisi
         </SectionHeader.Heading4>
         <SectionHeader.Heading1>
-          I Want To become a very successful mechanical engineer
+          I Want To become a very successful machenical engineer
         </SectionHeader.Heading1>
         <SectionHeader.Text>
           Productivity is never an accident. It’s always the result of a
